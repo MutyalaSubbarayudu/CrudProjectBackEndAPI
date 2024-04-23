@@ -1,1 +1,1 @@
-# CrudProjectBackEndAPI
+# CrudProjectBackEndAPI - A CRUD Project using Angular, .NET Core, EF Core and SQL Server.
